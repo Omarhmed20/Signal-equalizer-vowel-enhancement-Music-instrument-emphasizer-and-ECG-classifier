@@ -9,7 +9,7 @@ An equilizer with different modes and special uses
 - for all modes, a spectrogram for the data before and after applying the equilizer settings
 - for all modes, a plot for intensities aganist time before and after applying equilizer settings
 
-#Preview
+# Preview
 - ![screenshot from the ui](Screenshot_2023-06-13_015629.png)
 - ![screenshot from the ui](Screenshot_2023-06-13_015756.png)
 - ![screenshot from the ui](Screenshot_2023-06-13_020119.png)
